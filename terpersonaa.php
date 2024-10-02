@@ -1,3 +1,4 @@
+<php
 / 
  * Front to the Framework application. This file doesn't do anything, but loads 
  * framework time which does and tells Core data to load the theme. 
